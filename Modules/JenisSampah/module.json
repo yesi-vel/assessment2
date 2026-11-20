@@ -1,0 +1,11 @@
+{
+    "name": "JenisSampah",
+    "alias": "jenissampah",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\JenisSampah\\Providers\\JenisSampahServiceProvider"
+    ],
+    "files": []
+}
